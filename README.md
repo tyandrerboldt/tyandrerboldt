@@ -5,7 +5,7 @@
 
 
 ```javascript
-this.setProfile({
+setProfile({
   name: "Tyandrer Macêdo Boldt",
   profession: ["DEV. Fullstack", "Teacher"],
   stack: {
