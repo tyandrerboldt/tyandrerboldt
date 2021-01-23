@@ -10,11 +10,14 @@ setProfile({
   profession: ["DEV. Fullstack", "Teacher"],
   stack: {
   	frontend: [
-  		"ReactJS", "React Native", "VueJS"
+  		"Angular", "ReactJS"
   	],
   	backend: [
   		"Spring Boot", "NodeJS"
-  	],
+  	],	
+	mobile: [
+		"React Native"
+	],
   	languages: [
   		"Java", "Type/Javascript", "SQL", "HTML", "CSS"
   	]
